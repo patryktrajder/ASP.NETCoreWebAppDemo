@@ -1,2 +1,1 @@
-# SeleniumCSharpNetCore
-Program for automatic testing of dropdown entries using selenium C#
+# ASP.NET Core Web App Demo
